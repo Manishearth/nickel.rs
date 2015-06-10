@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["encode",""]],"struct":[["Encoder",""]],"type":[["EncoderResult",""]],"enum":[["Error",""]]});
